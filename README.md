@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tristan 2</h1>
+<h1 align="center">Hi 👋, I'm Tristan </h1>
 <h3 align="center">I am a computer science student interested in frontend development</h3>
 
 - 🔭 I’m currently working on **Web development projects**
